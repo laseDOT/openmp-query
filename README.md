@@ -14,7 +14,7 @@ Install via **download** (manual):
 
 Install via **npm** (recommended):
 ```bash
-npm install openmp-query
+npm i openmp-query
 ```
 
 ## 🛠️ Usage Example
